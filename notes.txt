@@ -1,0 +1,2 @@
+.toml files are used for configuration purposes, Cargo creates one called
+"Cargo.toml" which is known as "The Manifest" in Rust environments.
